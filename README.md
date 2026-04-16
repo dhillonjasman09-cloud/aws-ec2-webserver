@@ -25,8 +25,11 @@ properly configured security groups following least privilege principles.
 - Default security group detached to reduce attack surface
 
 ## Screenshots
+**Live web server running in browser**
 <img width="1094" height="1045" alt="image" src="https://github.com/user-attachments/assets/5d239574-12d1-4046-b185-6f852e7ce30a" />
+**Successful SSH connection from Windows PowerShell**
 <img width="807" height="750" alt="image" src="https://github.com/user-attachments/assets/d4a42d90-f4a8-4707-a145-a594a6414d12" />
+**Security group inbound rules (least privilege)**
 <img width="1112" height="357" alt="image" src="https://github.com/user-attachments/assets/41443541-758b-44c1-8d71-8908fa8739b2" />
 
 
